@@ -1,0 +1,27 @@
+font_8x16.o: font_8x16.c font.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/linux/types.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm/types.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm-generic/int-ll64.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm/bitsperlong.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm-generic/bitsperlong.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/linux/posix_types.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/linux/stddef.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm/posix_types.h
+
+font.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/linux/types.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm/types.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm-generic/int-ll64.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm/bitsperlong.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm-generic/bitsperlong.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/linux/posix_types.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/linux/stddef.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/asm/posix_types.h:

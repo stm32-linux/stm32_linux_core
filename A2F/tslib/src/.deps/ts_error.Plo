@@ -1,0 +1,100 @@
+ts_error.lo: ts_error.c ../config.h \
+ /usr/local/arm-2010q1/bin/../lib/gcc/arm-uclinuxeabi/4.4.1/include/stdarg.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/stdio.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/features.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_config.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/sys/cdefs.h \
+ /usr/local/arm-2010q1/bin/../lib/gcc/arm-uclinuxeabi/4.4.1/include/stddef.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/types.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/wordsize.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/typesizes.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/pthreadtypes.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/sched.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_stdio.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/wchar.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/wchar.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_mutex.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/pthread.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/sched.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/time.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/time.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_clk_tck.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/signal.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/sigset.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/initspin.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/sigthread.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_pthread.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/stdio_lim.h \
+ tslib-private.h tslib.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/sys/time.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/sys/select.h \
+ /usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/select.h \
+ tslib-filter.h tslib.h
+
+../config.h:
+
+/usr/local/arm-2010q1/bin/../lib/gcc/arm-uclinuxeabi/4.4.1/include/stdarg.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/stdio.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/features.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_config.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/sys/cdefs.h:
+
+/usr/local/arm-2010q1/bin/../lib/gcc/arm-uclinuxeabi/4.4.1/include/stddef.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/types.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/wordsize.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/typesizes.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/pthreadtypes.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/sched.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_stdio.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/wchar.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/wchar.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_mutex.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/pthread.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/sched.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/time.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/time.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_clk_tck.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/signal.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/sigset.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/initspin.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/sigthread.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/uClibc_pthread.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/stdio_lim.h:
+
+tslib-private.h:
+
+tslib.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/sys/time.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/sys/select.h:
+
+/usr/local/arm-2010q1/bin/../arm-uclinuxeabi/libc/usr/include/bits/select.h:
+
+tslib-filter.h:
+
+tslib.h:
